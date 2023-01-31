@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+  font-family: "Nunito", sans-serif;
+}
+
+form {
+  margin-top: 3rem;
+  position: relative;
+}
+
+fieldset {
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 6px;
+}
+
+legend {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 18px;
+}
+
+input {
+  margin-right: 0.4rem;
+}
+
+ul {
+  list-style: none;
+}
+
+.grupoCorreto,
+.grupoErrado {
+  margin-bottom: 1rem;
+}
+
+.grupoCorreto .pergunta {
+  font-weight: 500;
+}
+
+.corretas {
+  color: green;
+}
+
+.incorretas {
+  color: red;
+}
+
+.respostaCerta {
+  color: blueviolet;
+  font-weight: 600;
+}
+
+.resultadoFinal {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  appearance: none;
+  border: none;
+  background-color: darkorange;
+  color: #00000099;
+  font-size: 15px;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: tomato;
+  cursor: pointer;
+}
+
+.botaoAnterior {
+  position: absolute;
+  bottom: -30%;
+  left: 0%;
+}
+
+.botaoProximo {
+  position: absolute;
+  right: 0;
+  bottom: -30%;
+}

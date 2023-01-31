@@ -1,0 +1,74 @@
+[
+  {
+    "pergunta": "Qual seleção foi campeã mundial em 2018?",
+    "opcoes": ["Estados Unidos", "Itália", "China", "Sérvia", "Brasil"],
+    "resposta": "Sérvia",
+    "id": "p1"
+  },
+  {
+    "pergunta": "Que seleção ganhou as Olimpíadas de Tóquio 2020?",
+    "opcoes": ["Coréia de Sul", "Japão", "Estados Unidos", "Brasil", "Turquia"],
+    "resposta": "Estados Unidos",
+    "id": "p2"
+  },
+  {
+    "pergunta": "Qual seleção foi campeã do Mundial de Seleções 2022?",
+    "opcoes": ["Sérvia", "Itália", "Turquia", "China", "Polônia"],
+    "resposta": "Sérvia",
+    "id": "p3"
+  },
+  {
+    "pergunta": "Que jogadora recebeu o MVP das Olimpíadas de Tóquio 2020?",
+    "opcoes": [
+      "Paola Egonu",
+      "Carol da Silva",
+      "Tijana Boskovic",
+      "Gabriela Guimarães",
+      "Jordan Larson"
+    ],
+    "resposta": "Jordan Larson",
+    "id": "p4"
+  },
+  {
+    "pergunta": "Qual time é o atual campeão da Superliga Brasileira (temporada 2021/2022)?",
+    "opcoes": [
+      "Praia Clube",
+      "Pinheiros",
+      "Vôlei Bauru",
+      "Gerdau Minas",
+      "Fluminense"
+    ],
+    "resposta": "Gerdau Minas",
+    "id": "p5"
+  },
+  {
+    "pergunta": "Qual time é o atual campeão da Superliga Turca (temporada 2021/2022)?",
+    "opcoes": ["THY", "Fenerbahce", "Eczacibasi", "Galatasary", "Vakifbank"],
+    "resposta": "Vakifbank",
+    "id": "p6"
+  },
+  {
+    "pergunta": "Que jogadora recebeu o MVP no Mundial de Seleções 2022?",
+    "opcoes": [
+      "Paola Egonu",
+      "Tijana Boskovic",
+      "Gabriela Guimarães",
+      "Brit Herbots",
+      "Magdalena Stysiak"
+    ],
+    "resposta": "Tijana Boskovic",
+    "id": "p7"
+  },
+  {
+    "pergunta": "Que jogadora recebeu o MVP no Mundial de Clubes 2022?",
+    "opcoes": [
+      "Gabriela Guimarães",
+      "Júlia Kudies",
+      "Tijana Boskovic",
+      "Isabelle Haak",
+      "Carol da Silva"
+    ],
+    "resposta": "Isabelle Haak",
+    "id": "p8"
+  }
+]
